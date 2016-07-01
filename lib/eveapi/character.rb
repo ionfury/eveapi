@@ -80,6 +80,7 @@ module EVEApi
     # Character methods known to work
     METHODS = [
       :contracts,
+      :blueprints,
       :wallet_transactions,
       :upcoming_calendar_events,
       :standings,
